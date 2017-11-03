@@ -1,0 +1,7 @@
+ The skin friction coefficient, wall heat and mass transfer rates for different values of Pr, Nb, Nt,
+?, R and Le are given in Table1 when Ec = Ha = ? = 0. For some prescribed values of Ec, Ha,
+? and Rex together with the other embedded parameters and numbers, some fluid dynamic
+quantities were presented. For clarity, let us see the effects of parameters like Brownian motion,
+thermophoresis, viscous dissipation, thermal radiation, scaled chemical reaction and Lewis
+number, magnetic parameter, Prandtl number and Eckert number on various fluid dynamic
+quantities as presented graphically and in tabular form.
